@@ -6,7 +6,8 @@ const alejoalfonsoR = {
   tools: [React, Redux, Styled-Components, Jest],
 }
 ```
-
+Puedes encontrarme en 🌍:
+- [LinkedIn](https://www.linkedin.com/in/alejandro-alfonso-desarrollador/)
 <!--
 **alejoalfonsoR/alejoalfonsoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
