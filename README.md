@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, soy Alejandro 👋
+
+```javascript
+const alejoalfonsoR = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Styled-Components, Jest],
+}
+```
 
 <!--
 **alejoalfonsoR/alejoalfonsoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
